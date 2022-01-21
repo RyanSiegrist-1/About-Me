@@ -44,15 +44,12 @@ ul {
   margin-top: 3em;
   box-shadow: 5px 5px blue, -1em 0 .4em black;
   width: 50%;
-
-
   height: auto;
   }
 
   .aboutMe {
     margin-top: 2em;
     margin-left: 15%;
-    
   }
   
   .aboutMe>p {
@@ -73,6 +70,7 @@ table {
   margin-right: 25em;
   margin-top: 5em;
 }
+
 td {
   border: solid 2px black;
   text-align: center;
